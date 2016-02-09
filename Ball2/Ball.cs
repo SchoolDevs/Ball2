@@ -19,7 +19,7 @@ namespace Ball2
             m_Y = 0;
             m_SpeedX = 1;
             m_SpeedY = 1;
-            m_Size = 20;
+            m_Size = 30;
         }
 
         public void Update(Form frm)
